@@ -8,6 +8,34 @@
   --paragraph-font-family: "Lato";
 }
 
+.green {
+  color: #005500;
+}
+
+.blue {
+  color: #aaccff;
+}
+
+.orange {
+  color: #f2bd83;
+}
+
+.yellow {
+  color: #fde699;
+}
+
+.purple {
+  color: #a75ba2;
+}
+
+.teal {
+  color: #007f8c;
+}
+
+.mauve {
+  color: #c6a099;
+}
+
 h1 {
   font-family: var(--heading-font-family);
   color: #053f5c;
