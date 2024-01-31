@@ -38,7 +38,10 @@
 
 h1 {
   font-family: var(--heading-font-family);
-  color: #053f5c;
+  text-align: center;
+  margin-bottom: 74px;
+  margin-top: 45px;
+  font-size: 64px;
 }
 
 h2 {
@@ -65,14 +68,6 @@ li a {
 .wrapper {
   max-width: 1440px;
   margin: 0 auto;
-}
-
-h1 {
-  text-align: center;
-  margin-bottom: 74px;
-  margin-top: 45px;
-  font-size: 64px;
-  color: #053f5c;
 }
 
 a:hover {
@@ -129,10 +124,6 @@ a:hover {
 
 .right {
   color: #053f5c;
-}
-
-.left h2 {
-  color: #f7ad19;
 }
 
 .content {
