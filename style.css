@@ -123,7 +123,11 @@ a:hover {
 }
 
 .right {
-  color: #053f5c;
+  padding: 0;
+}
+
+.left {
+  padding: 0;
 }
 
 .content {
@@ -155,7 +159,49 @@ a:hover {
 }
 
 @media (max-width: 1024px) {
+  h1 {
+    font-size: 38px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
   .content {
     flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar {
+    flex-direction: column;
+  }
+
+  .navbar ul {
+    padding: 28px;
+  }
+
+  .navbar li {
+    font-size: 18px;
+    padding-right: 14px;
+  }
+  .medium-large {
+    width: 85%;
+  }
+
+  .medium-small {
+    width: 85%;
+  }
+
+  .text {
+    width: 85%;
+  }
+}
+
+@media (min-width: 1025px) {
+  .right {
+    padding-right: 22px;
+  }
+  .left {
+    padding-left: 22px;
   }
 }
