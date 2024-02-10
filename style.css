@@ -177,12 +177,12 @@ a:hover {
   }
 
   .navbar ul {
-    padding: 28px;
+    padding: 20px;
   }
 
   .navbar li {
     font-size: 13px;
-    padding-right: 14px;
+    padding-right: 10px;
   }
   .medium-large {
     width: 85%;
