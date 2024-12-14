@@ -26,3 +26,11 @@ The project is aimed at creating a layout for a fictional science museum. It is 
 ```bash
 git clone https://github.com/slerbakk/Semester-Project.git
 ```
+
+## Contributing
+
+If you want to contribute, you can do a pull request and I'll review it as soon as posible.
+
+## Contact
+
+You can get in touch with me at slerbakk@outlook.com
