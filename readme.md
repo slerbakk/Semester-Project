@@ -1,6 +1,5 @@
 ### 2. **Science Museum Webpage**
 
-````markdown
 # Science Museum Webpage
 
 ![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
@@ -29,4 +28,7 @@ The project is aimed at creating a layout for a fictional science museum. It is 
 ```bash
 git clone git@github.com:yourusername/science-museum-webpage.git
 ```
-````
+
+```
+
+```
