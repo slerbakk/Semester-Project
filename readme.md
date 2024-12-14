@@ -1,8 +1,6 @@
 ### 2. **Science Museum Webpage**
 
-# Science Museum Webpage
-
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://github.com/slerbakk/Semester-Project/blob/main/images/museum.png)
 
 This project is a webpage for a fictional science museum, built using HTML and CSS. The design showcases various sections, including exhibitions, about the museum, and contact information.
 
@@ -26,9 +24,5 @@ The project is aimed at creating a layout for a fictional science museum. It is 
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:yourusername/science-museum-webpage.git
-```
-
-```
-
+git clone https://github.com/slerbakk/Semester-Project.git
 ```
