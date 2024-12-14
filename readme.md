@@ -1,4 +1,4 @@
-### **Science Museum Webpage**
+# **Science Museum Webpage**
 
 ![image](https://github.com/slerbakk/Semester-Project/blob/main/images/museum.png)
 
